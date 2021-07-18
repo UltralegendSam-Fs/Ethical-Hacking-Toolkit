@@ -1,4 +1,7 @@
 ## Information Gathering
+<br>
+Information Gathering is the act of gathering different kinds of information against the targeted victim or system. It is the first step or the beginning stage of Ethical Hacking, where the penetration testers or hackers (both black hat or white hat) performed this stage; this is a necessary and crucial step to be performed. The more the information gathered about the target, the more the probability to obtain relevant results. Information gathering is not just a phase of security testing; it is an art that every penetration-tester (pen-tester) and hacker should master for a better experience in penetration testing.
+<br>
 * [whois](https://www.tecmint.com/whois-command-get-domain-and-ip-address-information/)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPZPTF4VDCZFD3CFVAK6WVY3S)](https://www.youtube.com/watch?v=mOrWk-80ObA)
 ``` 
 whois google.com
