@@ -1,5 +1,7 @@
 ## Password Attacks
 
+A password attack is exactly what it sounds like: a third party trying to gain access to your systems by cracking a user’s password.Password attacks are one of the most common forms of corporate and personal data breach. A password attack is simply when a hacker trys to steal your password. Passwords can only contain so many letters and numbers, passwords are becoming less safe. Hackers know that many passwords are poorly designed, so password attacks will remain a method of attack as long as passwords are being used.
+
 * [brutespray](https://tools.kali.org/password-attacks/brutespray)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/x90skysn3k/brutespray)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=Fi3YkvVfgxw)
 ``` 
 brutespray -i -f nas.gnmap
