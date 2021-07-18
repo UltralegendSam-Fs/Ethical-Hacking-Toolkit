@@ -1,12 +1,6 @@
 # Ethical-Hacking-Tools
 <br>
 
-
-
-<br>
-
-
-
 ### Show some love and star the Repo to SUPPORT 
 <br>
 
